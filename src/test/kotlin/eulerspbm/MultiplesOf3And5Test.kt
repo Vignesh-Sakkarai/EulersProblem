@@ -3,7 +3,7 @@ package eulerspbm
 import org.junit.Assert
 import org.junit.Test
 
-class MultiplesOf3And5Tests{
+class MultiplesOf3And5Test{
 
     @Test
     fun `should return the sum of multiples of 3 and 5 for the valid number` () {
